@@ -14,11 +14,12 @@
 
 
 ### VehicleApp
-- Every passsenger's info contains a key(number) and a value for their name(text). 
+- Invoke passenegNumbers() to print out only the passengers numbers #7 and 57
+- Every passsenger's ##Entry contains a key(number) and a value for their name(text) as seen below!. 
 ```
 (57, "wesley snipes)
 (007, "james bond) 
 
 ```
-- Invoke passenegNumbers() to print out only the passengers numbers #7 and 57
+
 
