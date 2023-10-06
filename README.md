@@ -16,7 +16,6 @@
 - Create an ArrayList of Vehicles and add all your vehicles to the list
 - Use your printListOfVehiclesNames(List<Vehicle>) to print the names of each vehicle in your ArrayList of Vehicles
 - Below is a sample output
-  <br />
   
 ```
 Mustang
