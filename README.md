@@ -14,12 +14,11 @@
 
 
 ### VehicleApp
-- Keep in mind that each passsenger's info contains a key(number) and  a value for their name (text). Hint: (Key, value pairs)
-Use the info below when creating your passengers
+- Every passsenger's info contains a key(number) and a value for their name(text). 
 ```
 (57, "wesley snipes)
 (007, "james bond) 
 
 ```
-- Invoke passenegNumbers() to print out only their numbers which are 7 and 57
+- Invoke passenegNumbers() to print out only the passengers numbers #7 and 57
 
