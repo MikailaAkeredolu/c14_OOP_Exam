@@ -22,7 +22,8 @@ Use the info below when creating your passengers
 
 ```
 - Invoke passenegNumbers() to print out only their numbers. See below for expected output
-```7
+```
+   7
    57
 ```
 
