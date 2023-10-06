@@ -25,7 +25,7 @@ GM
 M2
 ```
 
-<br />
+
 
 - Create a List of Flyable Objects and add all objects that are flyable to it
 - Use your printListOfFlyableObjects(List<Flyable>) method to print the list of flyable objects
@@ -38,7 +38,7 @@ FlyingCar{speed=1020, price=1000000.0, engine=Engine{size=L}, TAX_AMT=0.1}
 
 ```
 
-<br />
+
 
 - Note that every passsenger's Entry contains a key(number) and a value for their name(text) as seen below!.
 - Use a Map to create two different passengers as seen below (hint)
@@ -49,7 +49,7 @@ FlyingCar{speed=1020, price=1000000.0, engine=Engine{size=L}, TAX_AMT=0.1}
 
 ```
 
-<br/ >
+
 
 - Invoke passenegNumbers() to print out only the passengers numbers  such as 7 and 57
 - Below is the sample output:
@@ -59,7 +59,6 @@ FlyingCar{speed=1020, price=1000000.0, engine=Engine{size=L}, TAX_AMT=0.1}
 57
 ```
 
-<br/ >
 
 - Sort DriveAbleVehiclesBySpeed
 - Below is the sample output:
