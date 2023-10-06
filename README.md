@@ -80,7 +80,7 @@ FlyingCar{speed=1020, price=1000000.0, engine=Engine{size=L}, TAX_AMT=0.1}
 92000.0
 ```
 
-- Create a method named formattedPriceAfterTax to get and Print out price of the Car after discounts object above using your getPriceAfterTax() method
+- Create a method named formattedPriceAfterTax to get and Print out price of the Car after discounts in the format below!
 - Below is the sample output:
 
 ```
