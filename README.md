@@ -5,7 +5,7 @@
 
 ![Screen Shot 2023-10-06 at 6 29 23 AM](https://github.com/MikailaAkeredolu/c14_OOP_Exam/assets/10773482/d398923e-bf7f-4a59-8625-65f84e92280c)
 
-- Assuming that a vehicle is something that can transport a passenger or passengers
+### Assuming that a vehicle is something that can transport a passenger or passengers
 - Therefore, ALL vehicles will ALWAYS qualify for a 10% discount by default. However, cars ALWAYS get an EXTRA 5% discount.
 > Do the following inside the class that contains your main method
 - Create an intance of each Vehicle 
@@ -21,9 +21,5 @@ Use the info below when creating your passengers
 (007, "james bond) 
 
 ```
-- Invoke passenegNumbers() to print out only their numbers. See below for expected output
-```
-   7
-   57
-```
+- Invoke passenegNumbers() to print out only their numbers which are 7 and 57
 
