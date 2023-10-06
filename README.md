@@ -71,3 +71,13 @@ FlyingCar{speed=1020, price=1000000.0, engine=Engine{size=L}, TAX_AMT=0.1}
     FlyingCar{speed=1020, price=1000000.0, engine=Engine{size=L}, TAX_AMT=0.1}
 
 ```
+
+- Get and Print out price of the Car after discounts object above using your getPriceAfterTax() method
+
+```
+
+92000.0
+
+```
+
+
