@@ -3,7 +3,7 @@
 - MUST submit repo by 3:45pm (No extenions)
 - Asuume, Getters, Setters, Constructors and anything else you may need to get the output printed!
 
-![Screen Shot 2023-10-06 at 2 35 15 PM](https://github.com/MikailaAkeredolu/c14_OOP_Exam/assets/10773482/e5435c2d-7886-4b11-89be-166dea882bef)
+![Screen Shot 2023-10-06 at 2 47 38 PM](https://github.com/MikailaAkeredolu/c14_OOP_Exam/assets/10773482/20a00a1a-0485-4267-816d-dcc5bf2ebe7d)
 
 ### Assuming that a vehicle is something that can transport a passenger or passengers
 - Therefore, ALL vehicles will ALWAYS get taxed 10% by default. However, cars ALWAYS get an EXTRA 5% tax.
