@@ -49,6 +49,8 @@ FlyingCar{speed=1020, price=1000000.0, engine=Engine{size=L}, TAX_AMT=0.1}
 
 ```
 
+<br/ >
+
 - Invoke passenegNumbers() to print out only the passengers numbers  such as 7 and 57
 - Below is the sample output:
 
@@ -56,6 +58,8 @@ FlyingCar{speed=1020, price=1000000.0, engine=Engine{size=L}, TAX_AMT=0.1}
 7
 57
 ```
+
+<br/ >
 
 - Sort DriveAbleVehiclesBySpeed
 - Below is the sample output:
@@ -68,6 +72,3 @@ FlyingCar{speed=1020, price=1000000.0, engine=Engine{size=L}, TAX_AMT=0.1}
     FlyingCar{speed=1020, price=1000000.0, engine=Engine{size=L}, TAX_AMT=0.1}
 
 ```
-
-
-
