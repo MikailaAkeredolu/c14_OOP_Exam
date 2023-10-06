@@ -3,7 +3,7 @@
 - MUST submit repo by 3:45pm (No extenions)
 - Asuume, Getters, Setters, Constructors and anything else you may need to get the output printed!
 
-![Screen Shot 2023-10-06 at 6 29 23 AM](https://github.com/MikailaAkeredolu/c14_OOP_Exam/assets/10773482/d398923e-bf7f-4a59-8625-65f84e92280c)
+![Screen Shot 2023-10-06 at 12 44 06 PM](https://github.com/MikailaAkeredolu/c14_OOP_Exam/assets/10773482/050233e3-da86-4fc7-9fa1-6937b499794b)
 
 ### Assuming that a vehicle is something that can transport a passenger or passengers
 - Therefore, ALL vehicles will ALWAYS qualify for a 10% discount by default. However, cars ALWAYS get an EXTRA 5% discount.
