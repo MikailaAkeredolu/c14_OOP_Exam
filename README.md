@@ -6,7 +6,7 @@
 ![Screen Shot 2023-10-06 at 2 01 45 PM](https://github.com/MikailaAkeredolu/c14_OOP_Exam/assets/10773482/b67214b3-a499-46dd-801b-12c2a03a7119)
 
 ### Assuming that a vehicle is something that can transport a passenger or passengers
-- Therefore, ALL vehicles will ALWAYS qualify for a 10% discount by default. However, cars ALWAYS get an EXTRA 5% discount.
+- Therefore, ALL vehicles will ALWAYS get taxed 10% by default. However, cars ALWAYS get an EXTRA 5% tax.
 
 > Do the following inside the class that contains your main method (psvm)
 
