@@ -16,14 +16,16 @@
 - Create an ArrayList of Vehicles and add all your vehicles to the list
 - Use your printListOfVehiclesNames(List<Vehicle>) to print the names of each vehicle in your ArrayList of Vehicles
 - Below is a sample output
+  <br />
+  
 ```
-==============printListOfVehiclesNames================
 Mustang
 Concord
 SeaHorse
 GM
 M2
 ```
+
 <br />
 
 - Create a List of Flyable Objects and add all objects that are flyable to it
@@ -31,10 +33,10 @@ M2
 - Below is the sample output:
 
 ```
-============printListOfFlyableObjects==================
 Drone{name='DroneX'}
 Plane{speed=2000, price=180000.0, engine=Engine{size=L}, TAX_AMT=0.1}
 FlyingCar{speed=1020, price=1000000.0, engine=Engine{size=L}, TAX_AMT=0.1}
+
 ```
 
 <br/ >
@@ -50,20 +52,22 @@ FlyingCar{speed=1020, price=1000000.0, engine=Engine{size=L}, TAX_AMT=0.1}
 
 - Invoke passenegNumbers() to print out only the passengers numbers  such as 7 and 57
 - Below is the sample output:
-  ```
-=============printPassengerNumbersOnly=================
+
+```
 7
 57
 ```
 
 - Sort DriveAbleVehiclesBySpeed
 - Below is the sample output:
+
   ```
-=============sortAndPrintDriveableVehiclesBySpeed=================
-Boat{engine=Engine{size=S}, speed=60, price=50000.0, engine=Engine{size=S}, TAX_AMT=0.1}
-Truck{speed=120, price=80000.0, engine=Engine{size=L}, TAX_AMT=0.1}
-Car{extraDiscount=0.05, speed=280, price=80000.0, engine=Engine{size=M}}
-FlyingCar{speed=1020, price=1000000.0, engine=Engine{size=L}, TAX_AMT=0.1}
+  
+    Boat{engine=Engine{size=S}, speed=60, price=50000.0, engine=Engine{size=S}, TAX_AMT=0.1}
+    Truck{speed=120, price=80000.0, engine=Engine{size=L}, TAX_AMT=0.1}
+    Car{extraDiscount=0.05, speed=280, price=80000.0, engine=Engine{size=M}}
+    FlyingCar{speed=1020, price=1000000.0, engine=Engine{size=L}, TAX_AMT=0.1}
+
 ```
 
 
